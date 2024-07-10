@@ -1,0 +1,25 @@
+.margen{
+    margin: 50px 50px 50px 50px;
+    padding: 35px 30px 25px 20px;
+}
+*{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+h2, h3{
+    color: rgb(136, 49, 49);
+}
+p{
+    color: rgb(89, 147, 173);
+}
+img{
+    width: 700px;
+    height: 450px;
+}
+h5{
+    font-size:80px;
+}
